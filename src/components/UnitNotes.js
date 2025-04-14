@@ -52,14 +52,14 @@ const UnitNotes = () => {
       {
         unit: "Unit 3: SOFTWARE DESIGN",
         syllabus: "/resources/pdf/OOSE_Syllabus.pdf",
-        resource: "",
+        resource: "/resources/pdf/oose_unit-3.pdf",
         description: "Create clear, modular architectures to guide development.",
         questionsResource: ""
       },
       {
         unit: "Unit 4: SOFTWARE TESTING AND MAINTAINENCE",
         syllabus: "/resources/pdf/OOSE_Syllabus.pdf",
-        resource: "",
+        resource: "/resources/pdf/oose_unit-4.pdf",
         description: "Ensure reliability through systematic testing and ongoing updates.",
         questionsResource: ""
       },
@@ -126,7 +126,7 @@ const UnitNotes = () => {
       {
         unit: "Unit 3: ACCESS CONTROL AND SECURITY ",
         syllabus: "/resources/pdf/NS_Syllabus.pdf",
-        resource: "",
+        resource: "/resources/pdf/ns_unit-3.pdf",
         description: "Implement policies to restrict unauthorized access and protect resources.",
         questionsResource: ""
       },
@@ -237,7 +237,7 @@ const UnitNotes = () => {
       {
         unit: "Unit 3: Learn how inkjet-based methods deposit materials in 3D printing.",
         syllabus: "/resources/pdf/3D_Syllabus.pdf",
-        resource: "",
+        resource: "/resources/pdf/3D_unit-3.pdf",
         description: "Fundamentals of heat and energy.",
         questionsResource: ""
       },
